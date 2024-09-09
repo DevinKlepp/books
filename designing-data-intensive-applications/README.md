@@ -1,4 +1,4 @@
-## Book Repository
+## Designing Data-Intensive Applications - Martin Kleppmann
 
 This is my repo for documenting questions, answers, and notes for books I'm reading to help keep track of questions or learnings I have, as well as for others to read if they're curious about what I've gathered from the books.
 
