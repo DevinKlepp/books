@@ -1,0 +1,3 @@
+# Effective Typescript (2nd Edition)
+
+Gotta find the book...
